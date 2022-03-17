@@ -11,11 +11,12 @@
 // import EmitVue from './components/Emit.vue';
 // import FatherVue from './components/Father.vue';
 // import MultipleVModels from './components/MultipleVModels.vue';
-import ModelModifiers from './components/ModelModifier.vue';
+// import ModelModifiers from './components/ModelModifier.vue';
 import Attribute from './components/Attribute.vue';
 </script>
 
 <template>
+  <!-- <img alt="Vue logo" src="./assets/logo.png" /> -->
   <!-- <img alt="Vue logo" src="https://vuejs.org/images/logo.png" /> -->
   <!-- <HelloWorld msg="Hello Vue 3 + Vite" /> -->
   <!-- <Demo1 /> -->
@@ -28,7 +29,7 @@ import Attribute from './components/Attribute.vue';
   <!-- <FatherVue /> -->
   <!-- <MultipleVModels /> -->
   <!-- <ModelModifiers /> -->
-  <Attribute />
+  <!-- <Attribute /> -->
 </template>
 
 <style>

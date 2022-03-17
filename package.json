@@ -1,5 +1,5 @@
 {
-  "name": "vite-vue-starter",
+  "name": "vitejs-vite",
   "private": true,
   "version": "0.0.0",
   "scripts": {
@@ -8,14 +8,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@formily/core": "^2.0.11",
-    "@formily/vue": "^2.0.11",
-    "ant-design-vue": "^2.2.8",
+    "@formily/core": "^2.0.15",
+    "@formily/vue": "^2.0.15",
+    "ant-design-vue": "^1.7.8",
     "vue": "^3.2.25"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.2.0",
-    "@vue/composition-api": "^1.4.6",
+    "@vue/composition-api": "^1.4.9",
     "vite": "^2.8.0"
   }
 }
