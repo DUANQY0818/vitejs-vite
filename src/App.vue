@@ -12,7 +12,11 @@
 // import FatherVue from './components/Father.vue';
 // import MultipleVModels from './components/MultipleVModels.vue';
 // import ModelModifiers from './components/ModelModifier.vue';
-import Attribute from './components/Attribute.vue';
+// import Attribute from './components/Attribute.vue';
+// import TemplateSyntax from './components/TemplateSyntax/index.vue';
+// import Registration from './components/Registration/index.vue';
+// import Props from './components/Props/index.vue';
+import Events from './components/Events/index.vue';
 </script>
 
 <template>
@@ -30,15 +34,19 @@ import Attribute from './components/Attribute.vue';
   <!-- <MultipleVModels /> -->
   <!-- <ModelModifiers /> -->
   <!-- <Attribute /> -->
+  <!-- <TemplateSyntax /> -->
+  <!-- <Registration /> -->
+  <!-- <Props /> -->
+  <Events />
 </template>
 
 <style>
-#app {
+/* #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
-}
+} */
 </style>
